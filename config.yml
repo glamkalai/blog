@@ -15,15 +15,9 @@ menu:
         - name: Search
           url: search/
           weight: 1
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
+        - name: Articles
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
         - name: Data
           url: data/
           weight: 4 
